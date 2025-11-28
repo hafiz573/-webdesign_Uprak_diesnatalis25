@@ -22,13 +22,13 @@ const ImpactSection: React.FC = () => {
   ];
 
   return (
-    <section className="py-20 px-6 bg-green-50">
-      <h2 className="text-4xl font-bold text-center mb-10">Dampak yang Ingin Dicapai</h2>
+    <section className="py-20 px-6 bg-green-600">
+      <h2 className="text-4xl font-bold text-center mb-10 text-white">Dampak yang Ingin Dicapai</h2>
       <div className="grid md:grid-cols-3 gap-10 max-w-6xl mx-auto text-center">
         {impacts.map((impact, index) => (
           <div key={index} className="p-6">
-            <h3 className="text-3xl font-bold text-green-700">{impact.value}</h3>
-            <p className="text-gray-700">{impact.description}</p>
+            <h3 className="text-3xl font-bold text-green-700 text-white">{impact.value}</h3>
+            <p className="text-gray-700 text-white">{impact.description}</p>
           </div>
         ))}
       </div>
