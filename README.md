@@ -29,3 +29,9 @@ npm install
 
 npm run dev
 ```
+Nama Tim: Uprak
+
+Anggota Tim: 
+- Hafiz Muhammad Fiqar
+- Kiva Maharani
+- M. Rifqi Faiqul Ichsan
