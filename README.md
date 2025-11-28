@@ -1,19 +1,19 @@
-## GOUMKM Eco - Platform Digital UMKM Ramah Lingkungan
+# GOUMKM Eco - Platform Digital UMKM Ramah Lingkungan
 
-# Deskripsi:
+## Deskripsi:
 GOUMKM Eco adalah platform digital inovatif yang mendukung UMKM Indonesia dengan pendekatan ramah lingkungan. Kami menghubungkan pelaku usaha dengan konsumen yang peduli lingkungan melalui solusi digital yang mudah diakses.
 
-# Fitur Utama:
+## Fitur Utama:
 - EDUKASI UMKM - Pelatihan digitalisasi, manajemen keuangan, dan pemasaran modern
 - KAMPANYE LINGKUNGAN - Program edukasi gaya hidup hijau untuk masyarakat dan UMKM
 - KATALOG DIGITAL - Promosi produk lokal ramah lingkungan dengan jangkauan luas
 
-# Keunggulan:
+## Keunggulan:
 - Meningkatkan penjualan UMKM hingga 40% melalui digitalisasi
 - Membangun kesadaran lingkungan yang berkelanjutan
 - Mendorong produk lokal naik kelas di pasar digital
 
-# Target Kami:
+## Target Kami:
 40%+ peningkatan penjualan UMKM
 Edukasi gaya hidup hijau untuk masyarakat luas
 Produk lokal yang kompetitif di era digital
@@ -29,8 +29,7 @@ npm install
 
 npm run dev
 ```
-Nama Tim: Uprak
-
+### Nama Tim: Uprak
 Anggota Tim: 
 - Hafiz Muhammad Fiqar
 - Kiva Maharani
