@@ -25,5 +25,7 @@ cd Nama-Project
 
 npm install tailwindcss @tailwindcss/vite
 
+npm install
+
 npm run dev
 ```
