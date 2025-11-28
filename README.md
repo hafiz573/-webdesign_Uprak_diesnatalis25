@@ -22,11 +22,8 @@ Produk lokal yang kompetitif di era digital
 ```
 npm create vite@latest Nama-Project
 cd Nama-Project
-```
 
-```
 npm install tailwindcss @tailwindcss/vite
-```
-```
+
 npm run dev
 ```
